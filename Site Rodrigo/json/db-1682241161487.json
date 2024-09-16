@@ -1,0 +1,30 @@
+{
+  "general-info": {
+    "incomes": "100,00",
+    "expenses": "50,00",
+    "balance": "500,00"
+  },
+  "transactions": [
+    {
+      "title": "Compra de Mercado",
+      "description": "Comprei mantimentos para a semana",
+      "date": "04/18/2023",
+      "money": 52,
+      "type": false
+    },
+    {
+      "title": "Almoço",
+      "description": "Almocei com um colega de trabalho",
+      "date": "04/19/2023",
+      "money": 15.5,
+      "type": true
+    },
+    {
+      "title": "Almoço",
+      "description": "Almocei com um colega de trabalho",
+      "date": "04/20/2023",
+      "money": 15.5,
+      "type": false
+    }
+  ]
+}
